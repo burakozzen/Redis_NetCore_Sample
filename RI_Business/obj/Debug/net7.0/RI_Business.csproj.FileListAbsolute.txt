@@ -1,0 +1,12 @@
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/bin/Debug/net7.0/RI_Business.deps.json
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/bin/Debug/net7.0/RI_Business.dll
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/bin/Debug/net7.0/RI_Business.pdb
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.csproj.AssemblyReference.cache
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.AssemblyInfoInputs.cache
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.AssemblyInfo.cs
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.csproj.CoreCompileInputs.cache
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.dll
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/refint/RI_Business.dll
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/RI_Business.pdb
+/Users/burakozen/Documents/REPOS/deneme/RedisIntegration/RI_Business/obj/Debug/net7.0/ref/RI_Business.dll
